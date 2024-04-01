@@ -1,0 +1,6 @@
+canvas {
+    border: 1px solid black;
+    background: linear-gradient(to bottom right, #0b5345, #2e7d32);
+    display: block;
+    margin: 0 auto;
+}
